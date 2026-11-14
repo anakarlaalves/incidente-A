@@ -1,4 +1,4 @@
-# Incidente A — Exclusão acidental em banco de dados replicado
+# Cenário A — Conta comprometida apaga os clientes
 
 ## 1. Identificação
 
